@@ -15,8 +15,7 @@ Open the `main.ipynb` file in `your-code` directory. There are 3 challenges and 
 
 ## Deliverables
 
-You have here three exercises regarding three different datasets. The questions are similar so it is mandatory `to deliver just one of the exercises`. If you want to go further feel free!
-- `main.ipynb` with your responses.
+You have here three exercises regarding three different datasets. The questions are similar so it is mandatory to deliver just one of the exercises. If you want to go further feel free!
 
 ## Submission
 
@@ -26,7 +25,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
-[10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+[10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 
 [Google Search](https://www.google.com/search?q=pandas+python)
 
