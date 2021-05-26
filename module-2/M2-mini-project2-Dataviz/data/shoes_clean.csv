@@ -1,0 +1,726 @@
+,index,brand,colors,name,prices.isSale,MedianPrice
+0,30,New Balance,Blue,New Balance Pace Women D Round Toe Synthetic Blue Running Shoe,TRUE,42.99
+2,34,Nine West,Red,Nine West Breeze Women  Open Toe Canvas  Wedge Sandal,TRUE,13.99
+3,35,Nine West,Red,Nine West Breeze Women  Open Toe Canvas  Wedge Sandal,TRUE,8.99
+4,36,Nine West,Red,Nine West Breeze Women  Open Toe Canvas  Wedge Sandal,FALSE,89.0
+5,43,Easy Spirit,Red,Easy Spirit Abide Women  Moc Toe Patent Leather Red Loafer,FALSE,70.0
+6,44,Easy Spirit,Red,Easy Spirit Abide Women  Moc Toe Patent Leather Red Loafer,TRUE,15.99
+7,74,Unique Bargains,Black,Unique Bargains Women's Peep Toe Slip On Stacked Heel Slingback Mules Black (size 8.5),TRUE,34.79
+8,75,Unique Bargains,Black,Unique Bargains Women's Peep Toe Slip On Stacked Heel Slingback Mules Black (size 8.5),FALSE,69.99
+9,134,Nike,Blue,620415 483 New Womens Nike Pro Hyperwarm Infinity Training Shirt Size Small,FALSE,9.5
+10,135,Nike,Blue,620415 483 New Womens Nike Pro Hyperwarm Infinity Training Shirt Size Small,FALSE,15.5
+11,136,Nike,Blue,620415 483 New Womens Nike Pro Hyperwarm Infinity Training Shirt Size Small,FALSE,31.95
+12,192,MUK LUKS,Black,Muk Luks Womens Jane Suede Moccasin,TRUE,44.94
+13,193,MUK LUKS,Black,Muk Luks Womens Jane Suede Moccasin,FALSE,47.0
+14,194,MUK LUKS,Black,Muk Luks Womens Jane Suede Moccasin,TRUE,35.6
+15,195,MUK LUKS,Black,Muk Luks Womens Jane Suede Moccasin,FALSE,49.99
+16,196,MUK LUKS,Black,Muk Luks Womens Jane Suede Moccasin,TRUE,38.78
+17,426,Style & Co.,Beige,Style & Co Vern   Open Toe Synthetic  Wedge Sandal,FALSE,19.99
+24,457,Nike,Black,Nike Flyknit Lunar 3 Women  Round Toe Synthetic Black Running Shoe,TRUE,94.99
+25,495,Unique Bargains,Beige,Unique Bargains Women's Pointed Toe Color Block Open Sides Ankle Strap Flats Beige (size 8.5),FALSE,29.4
+27,515,Vince Camuto,Brown,Vince Camuto Parka   Round Toe Suede  Ankle Boot,TRUE,58.99
+28,574,Reebok,Black,Reebok Work N Cushion Kc Women  Round Toe Leather Black Sneakers,FALSE,60.0
+29,575,Reebok,Black,Reebok Work N Cushion Kc Women  Round Toe Leather Black Sneakers,TRUE,26.99
+31,652,Marc Fisher,Black,Marc Fisher Cahoot Women  Pointed Toe Suede Black Ankle Boot,TRUE,18.99
+32,724,Easy Spirit,Beige,Easy Spirit Jarada   Round Toe Synthetic  Knee High Boot,TRUE,44.99
+34,917,Le Suit,Black,New Le Suit Women's Casual Black Textured Skirt Suit Sz 16p $200,FALSE,59.99
+35,965,MUK LUKS,Brown,Muk Luks �� Speckled Melana Boot Brown,TRUE,34.99
+36,966,MUK LUKS,Brown,Muk Luks �� Speckled Melana Boot Brown,FALSE,29.99
+37,967,MUK LUKS,Brown,Muk Luks �� Speckled Melana Boot Brown,FALSE,65.0
+38,968,MUK LUKS,Brown,Muk Luks �� Speckled Melana Boot Brown,TRUE,29.99
+40,1024,Vince Camuto,Brown,Womens Vince Camuto Federa Cutout Ankle Booties - Warm Steel,TRUE,78.0
+41,1076,VANS,Red,Vans Classic Slip-on Mule   Round Toe Leather  Mules,TRUE,47.99
+42,1077,VANS,Red,Vans Classic Slip-on Mule   Round Toe Leather  Mules,FALSE,60.0
+43,1084,ELLIE SHOES,Black,Womens Victorian Elizabeth Black Costume Boots,FALSE,64.0
+44,1085,ELLIE SHOES,Black,Womens Victorian Elizabeth Black Costume Boots,TRUE,45.96
+45,1086,ELLIE SHOES,Black,Womens Victorian Elizabeth Black Costume Boots,TRUE,39.71
+47,1143,Style & Co.,Black,Style & Co Pacina   Open Toe Canvas  Sandals,TRUE,8.99
+48,1144,Style & Co.,Black,Style & Co Pacina   Open Toe Canvas  Sandals,FALSE,65.0
+49,1145,Style & Co.,Black,Style & Co Pacina   Open Toe Canvas  Sandals,TRUE,25.99
+50,1268,Style & Co.,White,Style & Co Maisyy   Pointed Toe Synthetic  Heels,FALSE,69.0
+51,1269,Style & Co.,White,Style & Co Maisyy   Pointed Toe Synthetic  Heels,TRUE,32.98
+52,1270,Style & Co.,White,Style & Co Maisyy   Pointed Toe Synthetic  Heels,TRUE,20.99
+53,1324,Unique Bargains,Brown,Unique Bargains Women's Peep Toe High Heel Crisscross Straps Platform Sandals Brown (size 7),FALSE,72.99
+54,1325,Unique Bargains,Brown,Unique Bargains Women's Peep Toe High Heel Crisscross Straps Platform Sandals Brown (size 7),TRUE,36.41
+55,1327,Reebok,White,Reebok Royal Lumina Women Us 9 White Walking Shoe Uk 6.5 Pre Owned 1650,FALSE,12.99
+56,1350,Unique Bargains,Black,Woman Black Plastic Hook End Adjustable Elastic Bra Shoulder Straps Bands 6pcs,TRUE,7.53
+57,1351,Unique Bargains,Black,Woman Black Plastic Hook End Adjustable Elastic Bra Shoulder Straps Bands 6pcs,FALSE,15.99
+58,1384,ELLIE SHOES,Black,6'' Heel Fetish Pump Shoe,FALSE,47.8
+60,1408,New Balance,Black,New Balance 1105 Black Toning Womens Shoes Size,TRUE,59.95
+61,1476,Vince Camuto,Brown,Vince Camuto Dyani   Round Toe Synthetic  Knee High Boot,FALSE,68.99
+62,1494,Alfani,White,Alfani Jeules Women  Pointed Toe Synthetic White Heels,FALSE,60.0
+63,1495,Alfani,White,Alfani Jeules Women  Pointed Toe Synthetic White Heels,TRUE,13.99
+64,1496,Alfani,White,Alfani Jeules Women  Pointed Toe Synthetic White Heels,TRUE,12.99
+65,1497,Alfani,White,Alfani Jeules Women  Pointed Toe Synthetic White Heels,TRUE,11.99
+66,1546,Alfani,Black,Alfani Cassays Women's Slingback D'orsay Heels,FALSE,36.59
+67,1795,Nike,White,"Nike Women's Air Embellish Golf Shoes (white/vapor Mauve/silver, 7 Med) New",FALSE,69.99
+68,1804,Marc Fisher,Black,Marc Fisher Kalifa Women  Open Toe Canvas Black Slides Sandal,TRUE,29.99
+69,1805,Marc Fisher,Black,Marc Fisher Kalifa Women  Open Toe Canvas Black Slides Sandal,FALSE,59.0
+70,1836,Vince Camuto,Black,Vince Camuto Folly Women  Open Toe Synthetic  Flip Flop Sandal,TRUE,6.99
+71,1837,Vince Camuto,Black,Vince Camuto Folly Women  Open Toe Synthetic  Flip Flop Sandal,FALSE,89.0
+72,1847,Nine West,Brown,Nine West Kellcie   Open Toe Synthetic  Thong Sandal,FALSE,69.0
+73,1848,Nine West,Brown,Nine West Kellcie   Open Toe Synthetic  Thong Sandal,TRUE,54.99
+89,1911,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,67.97
+90,1912,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,61.86
+91,1913,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,81.9
+97,1919,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,66.05
+104,1926,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,96.61
+109,1931,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,74.51
+110,1932,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,84.41
+111,1933,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,72.33
+113,1935,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,63.83
+115,1937,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,92.69
+117,1939,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,76.46
+136,1958,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,66.6
+140,1962,Dolce & Gabbana,"Avio Rubber,Crystal Rubber",D&g Dolce & Gabbana Women's 0dg6086 Polarized Rectangular Sunglasses,TRUE,96.05
+157,1982,Marc Fisher,Red,Marc Fisher Omaja   Open Toe Synthetic  Flip Flop Sandal,FALSE,39.0
+158,1983,Marc Fisher,Red,Marc Fisher Omaja   Open Toe Synthetic  Flip Flop Sandal,TRUE,0.99
+159,1999,New Balance,Blue,New Balance Wt690 Women D Round Toe Synthetic  Sneakers,TRUE,29.99
+160,2000,New Balance,Blue,New Balance Wt690 Women D Round Toe Synthetic  Sneakers,FALSE,75.0
+161,2001,New Balance,Blue,New Balance Wt690 Women D Round Toe Synthetic  Sneakers,TRUE,46.99
+163,2230,Bongo,White,Bongo Women's White Braid Strappy Flat Sandal,TRUE,16.09
+164,2231,Bongo,White,Bongo Women's White Braid Strappy Flat Sandal,FALSE,24.99
+165,2278,Vince Camuto,Black,Vince Camuto Kain Women Us 8 Black Heels Pre Owned 1903,FALSE,21.99
+166,2304,Easy Spirit,Red,Easy Spirit Joyz   Open Toe Synthetic  Platform Sandal,FALSE,39.99
+167,2305,Easy Spirit,Red,Easy Spirit Joyz   Open Toe Synthetic  Platform Sandal,TRUE,15.99
+168,2306,Easy Spirit,Red,Easy Spirit Joyz   Open Toe Synthetic  Platform Sandal,FALSE,79.0
+169,2438,New Balance,White,New Balance Ww496 Women Us 9 White Walking Shoe,FALSE,44.99
+170,2471,Nine West,Black,Nine West Zarong Women  Round Toe Leather  Flats,FALSE,69.0
+171,2472,Nine West,Black,Nine West Zarong Women  Round Toe Leather  Flats,TRUE,32.99
+172,2519,MUK LUKS,Black,Muk Luks Women's Edie Sandals,FALSE,30.0
+173,2520,MUK LUKS,Black,Muk Luks Women's Edie Sandals,FALSE,31.82
+174,2551,VANS,Black,Vans Unisex Classic Slip-on Patent Leather Sneakers,FALSE,64.99
+175,2552,VANS,Black,Vans Unisex Classic Slip-on Patent Leather Sneakers,TRUE,38.99
+176,2564,TOMS,White,Toms Women's Avalon Slipon Linen W White Ankle-high Fabric Flat Shoe - 9.5m,FALSE,41.65
+177,2565,TOMS,White,Toms Women's Avalon Slipon Linen W White Ankle-high Fabric Flat Shoe - 9.5m,FALSE,39.95
+178,2683,Nike,Blue,New Nike Hypervenom Phelon Mens Soccer Cleats Boots Size 9.5 Blue Hyper Red,FALSE,55.0
+179,2684,Nike,Blue,New Nike Hypervenom Phelon Mens Soccer Cleats Boots Size 9.5 Blue Hyper Red,FALSE,52.5
+180,2685,Nike,Blue,New Nike Hypervenom Phelon Mens Soccer Cleats Boots Size 9.5 Blue Hyper Red,FALSE,60.0
+181,2686,Nike,Blue,New Nike Hypervenom Phelon Mens Soccer Cleats Boots Size 9.5 Blue Hyper Red,FALSE,62.5
+182,2771,Easy Spirit,Black,Easy Spirit Sahara   Open Toe Leather  Slides Sandal,FALSE,69.0
+183,2772,Easy Spirit,Black,Easy Spirit Sahara   Open Toe Leather  Slides Sandal,TRUE,21.99
+184,2773,Easy Spirit,Black,Easy Spirit Sahara   Open Toe Leather  Slides Sandal,TRUE,22.99
+185,2881,Easy Spirit,Black,Easy Spirit Walkthru   Round Toe Suede  Walking Shoe,FALSE,69.0
+186,2882,Easy Spirit,Black,Easy Spirit Walkthru   Round Toe Suede  Walking Shoe,TRUE,17.99
+187,2896,Easy Spirit,Blue,Easy Spirit Traveltime Women  Round Toe Canvas Blue Mules,FALSE,69.0
+188,2897,Easy Spirit,Blue,Easy Spirit Traveltime Women  Round Toe Canvas Blue Mules,TRUE,52.98
+189,2898,Easy Spirit,Blue,Easy Spirit Traveltime Women  Round Toe Canvas Blue Mules,TRUE,40.99
+190,2909,Style & Co.,Black,Style & Co Qwinn   Round Toe Synthetic  Ankle Boot,FALSE,70.0
+191,2910,Style & Co.,Black,Style & Co Qwinn   Round Toe Synthetic  Ankle Boot,FALSE,32.79
+192,2911,Style & Co.,Black,Style & Co Qwinn   Round Toe Synthetic  Ankle Boot,TRUE,27.99
+194,2958,Marc Fisher,Black,Marc Fisher Andreya Women  Round Toe Leather Black Boot,TRUE,52.99
+195,2983,New Balance,Blue,New Balance 6520 New Womens The Fab Framer I Blue Sports Bra Athletic S Bhfo,FALSE,4.32
+196,2984,New Balance,Blue,New Balance 6520 New Womens The Fab Framer I Blue Sports Bra Athletic S Bhfo,FALSE,12.0
+197,2985,New Balance,Blue,New Balance 6520 New Womens The Fab Framer I Blue Sports Bra Athletic S Bhfo,FALSE,7.0
+198,2986,New Balance,Blue,New Balance 6520 New Womens The Fab Framer I Blue Sports Bra Athletic S Bhfo,FALSE,6.5
+199,2987,New Balance,Blue,New Balance 6520 New Womens The Fab Framer I Blue Sports Bra Athletic S Bhfo,FALSE,13.5
+200,2988,New Balance,Blue,New Balance 6520 New Womens The Fab Framer I Blue Sports Bra Athletic S Bhfo,FALSE,8.5
+201,3048,TOMS,Black,Toms Women's Lunata Lace-up Casual Shoe,TRUE,76.9
+206,3109,Nike,Blue,New Women's Nike Mercurial Veloce Ii 2 Fg Firm Ground Soccer Cleats Size 10 Blue,FALSE,37.99
+207,3172,Style & Co.,Brown,Style & Co Charlees   Round Toe Synthetic  Ankle Boot,TRUE,30.98
+208,3173,Style & Co.,Brown,Style & Co Charlees   Round Toe Synthetic  Ankle Boot,TRUE,18.99
+209,3174,Style & Co.,Brown,Style & Co Charlees   Round Toe Synthetic  Ankle Boot,FALSE,79.0
+210,3209,Unique Bargains,Black,Unique Bargains Women's Open Toe Cutout Chunky Heel Lace-up Sandals Black (size 6.5),FALSE,71.99
+211,3210,Unique Bargains,Black,Unique Bargains Women's Open Toe Cutout Chunky Heel Lace-up Sandals Black (size 6.5),TRUE,35.67
+212,3267,Alfani,Black,Alfani Asche Women Us 9 Black Knee High Boot Pre Owned 1431,FALSE,12.99
+213,3283,Unique Bargains,Red,Unique Bargains Women's Pointed Toe Stiletto Heel Ankle Strap Pumps,TRUE,27.87
+214,3284,Unique Bargains,Red,Unique Bargains Women's Pointed Toe Stiletto Heel Ankle Strap Pumps,FALSE,55.99
+215,3380,VANS,Blue,Vans Atwood Low   Round Toe Canvas  Skate Shoe,FALSE,55.0
+216,3381,VANS,Blue,Vans Atwood Low   Round Toe Canvas  Skate Shoe,TRUE,21.99
+219,3424,Nine West,Beige,Nine West Callen   Pointed Toe Leather  Heels,TRUE,19.99
+220,3425,Nine West,Beige,Nine West Callen   Pointed Toe Leather  Heels,FALSE,90.0
+221,3515,Nine West,Black,Nine West Zalina Women  Pointed Toe Suede Black Loafer,FALSE,85.0
+222,3516,Nine West,Black,Nine West Zalina Women  Pointed Toe Suede Black Loafer,TRUE,37.99
+223,3554,Marc Fisher,Red,Marc Fisher Jodianne Women  Round Toe Leather  Flats,FALSE,17.99
+224,3675,Marc Fisher,Brown,Marc Fisher Aysha   Round Toe Leather  Knee High Boot,FALSE,33.99
+225,3737,Style & Co.,White,Style & Co Highlight   Open Toe Synthetic  Sandals,FALSE,55.0
+226,3738,Style & Co.,White,Style & Co Highlight   Open Toe Synthetic  Sandals,TRUE,13.99
+227,3739,Style & Co.,White,Style & Co Highlight   Open Toe Synthetic  Sandals,TRUE,9.99
+229,3796,Nine West,Brown,Nine West No Game Women  Square Toe Leather  Mid Calf Boot,TRUE,92.99
+230,3800,Easy Spirit,Beige,Easy Spirit Senza   Peep-toe Canvas  Slingback,FALSE,14.99
+231,3806,New Balance,Blue,New Balance W580 Women Us 8 Blue Running Shoe Pre Owned 1695,FALSE,12.99
+232,3807,VANS,Beige,Vans Chauffette    Round Toe Canvas  Loafer,TRUE,17.99
+233,3808,VANS,Beige,Vans Chauffette    Round Toe Canvas  Loafer,FALSE,56.0
+234,3823,Le Suit,Red,New Le Suit Women's Skirt Suit Sz 14p $200,FALSE,61.99
+235,3884,Marc Fisher,Brown,Marc Fisher Sade Women  Round Toe Suede  Ankle Boot,TRUE,29.99
+237,3916,Nike,Black,Nike Air Zoom Fit Agility 2 Women  Round Toe Synthetic Black Sneakers,TRUE,71.99
+238,3917,Nike,Black,Nike Air Zoom Fit Agility 2 Women  Round Toe Synthetic Black Sneakers,TRUE,63.99
+239,3918,Nike,Black,Nike Air Zoom Fit Agility 2 Women  Round Toe Synthetic Black Sneakers,FALSE,90.0
+240,4002,Unique Bargains,Black,Ladies Low Heels Low Platform Point Toe Pumps Black Us 7,FALSE,28.99
+241,4003,Unique Bargains,Black,Ladies Low Heels Low Platform Point Toe Pumps Black Us 7,FALSE,59.99
+242,4004,Unique Bargains,Black,Ladies Low Heels Low Platform Point Toe Pumps Black Us 7,TRUE,14.26
+243,4005,Unique Bargains,Black,Ladies Low Heels Low Platform Point Toe Pumps Black Us 7,TRUE,29.7
+244,4050,Marc Fisher,Brown,Marc Fisher Kacee Wide Calf   Round Toe Leather  Knee High Boot,FALSE,75.99
+245,4076,Unique Bargains,Beige,Unique Bargains Women's Pointed Toe Stiletto Mid Heel Classic Pumps Beige (size 8.5),TRUE,23.63
+246,4077,Unique Bargains,Beige,Unique Bargains Women's Pointed Toe Stiletto Mid Heel Classic Pumps Beige (size 8.5),FALSE,47.99
+247,4116,Unique Bargains,Brown,Unique Bargains Women's Open Toe Cutout Chunky Heel Lace-up Sandals Brown (size 8),FALSE,71.99
+248,4117,Unique Bargains,Brown,Unique Bargains Women's Open Toe Cutout Chunky Heel Lace-up Sandals Brown (size 8),TRUE,35.67
+249,4166,VANS,Black,Vans Womens Houston Fleece Sneakers,FALSE,64.99
+250,4167,VANS,Black,Vans Womens Houston Fleece Sneakers,TRUE,36.99
+252,4243,Unique Bargains,Red,Ladies Leopard Prints Pointed Toe Padded Insole Casual Flats Shoes (size 8),TRUE,17.88
+253,4244,Unique Bargains,Red,Ladies Leopard Prints Pointed Toe Padded Insole Casual Flats Shoes (size 8),FALSE,35.99
+254,4245,Reebok,Black,Reebok Womens Record Mile,FALSE,49.99
+255,4246,Style & Co.,Blue,Style & Co Gildaa   Open Toe Suede  Wedge Heel,FALSE,49.0
+256,4247,Style & Co.,Blue,Style & Co Gildaa   Open Toe Suede  Wedge Heel,TRUE,14.99
+257,4253,Reebok,White,"Reebok Women's Princess Sneaker,white,7 W",FALSE,47.49
+258,4254,Reebok,White,"Reebok Women's Princess Sneaker,white,7 W",FALSE,49.99
+259,4299,PleaserUSA,Brown,"Cutiepie-09, 3/4'' Hidden Criss Cross Pump Shoes",FALSE,53.95
+260,4454,MUK LUKS,Blue,Muk Luks Women's Kieran Slipper,FALSE,40.0
+262,4625,Vince Camuto,Beige,Vince Camuto Fancle Women  Open Toe Leather Nude Sandals,TRUE,17.99
+265,4673,Nine West,Black,Nine West Evah   Round Toe Leather  Knee High Boot,TRUE,74.99
+269,4713,Reebok,White,Reebok Work N Cushion Kc Women W Round Toe Synthetic White Work Shoe,TRUE,29.99
+270,4714,Reebok,White,Reebok Work N Cushion Kc Women W Round Toe Synthetic White Work Shoe,FALSE,60.0
+271,4715,Reebok,White,Reebok Work N Cushion Kc Women W Round Toe Synthetic White Work Shoe,FALSE,26.99
+272,4716,Reebok,White,Reebok Work N Cushion Kc Women W Round Toe Synthetic White Work Shoe,TRUE,41.98
+273,4789,MUK LUKS,Blue,Muk Luks - Stretch Satin Ballerina Slippers,FALSE,22.94
+274,4790,MUK LUKS,Blue,Muk Luks - Stretch Satin Ballerina Slippers,FALSE,22.95
+275,4791,MUK LUKS,Blue,Muk Luks - Stretch Satin Ballerina Slippers,FALSE,19.87
+276,4803,ELLIE SHOES,White,Juliet Adult Shoes,FALSE,28.64
+277,4811,TOMS,Beige,Toms Strappy Wedge Women  Open Toe Canvas  Wedge Sandal,TRUE,39.99
+278,4812,TOMS,Beige,Toms Strappy Wedge Women  Open Toe Canvas  Wedge Sandal,FALSE,89.0
+279,4899,Vince Camuto,Black,Vince Camuto Tiernan   Open-toe Patent Leather  Slingback Heel,FALSE,17.99
+280,5023,Vince Camuto,Blue,Vince Camuto Faran Women  Open Toe Suede  Wedge Heel,TRUE,53.99
+282,5035,Unique Bargains,Black,G Antini Ladies Translucent Slim High Heel Pointed Toe Pumps (size 7.5),TRUE,30.26
+283,5036,Unique Bargains,Black,G Antini Ladies Translucent Slim High Heel Pointed Toe Pumps (size 7.5),FALSE,60.99
+285,5150,Alfani,Black,Alfani Jemsey  Women  Round Toe Synthetic Black Knee High Boot,TRUE,29.99
+287,5152,Alfani,Black,Alfani Jemsey  Women  Round Toe Synthetic Black Knee High Boot,TRUE,17.99
+288,5186,Easy Spirit,Black,Easy Spirit Davita   Open Toe Suede  Wedge Heel,TRUE,21.99
+289,5187,Easy Spirit,Black,Easy Spirit Davita   Open Toe Suede  Wedge Heel,FALSE,79.0
+290,5195,TOMS,Brown,Toms Solana Flip Flop Open Toe Canvas Flip Flop Sandal,FALSE,24.21
+291,5196,TOMS,Brown,Toms Solana Flip Flop Open Toe Canvas Flip Flop Sandal,TRUE,24.99
+292,5197,TOMS,Brown,Toms Solana Flip Flop Open Toe Canvas Flip Flop Sandal,TRUE,33.98
+293,5198,TOMS,Brown,Toms Solana Flip Flop Open Toe Canvas Flip Flop Sandal,FALSE,39.0
+294,5265,Nine West,Brown,Nine West Ticktock Women Us 7.5 Brown Slides Sandal Pre Owned 1695,FALSE,5.99
+295,5319,Easy Spirit,Brown,Easy Spirit Vitaro   Open-toe Leather  Slingback Sandal,FALSE,41.99
+296,5366,Style & Co.,Black,Style & Co Andoraa   Open-toe Synthetic  Heels,FALSE,59.0
+297,5467,Unique Bargains,Blue,Woman Faux Suede Casual Pointed Slip On Ballet Flat Blue Us 9,FALSE,39.99
+298,5468,Unique Bargains,Blue,Woman Faux Suede Casual Pointed Slip On Ballet Flat Blue Us 9,TRUE,19.89
+300,5528,Nine West,Beige,Nine West Ally Sway   Open Toe Canvas  Sandals,TRUE,51.99
+301,5541,Easy Spirit,White,Easy Spirit Sand Castle   Open-toe Leather  Sport Sandal,FALSE,69.0
+302,5542,Easy Spirit,White,Easy Spirit Sand Castle   Open-toe Leather  Sport Sandal,TRUE,24.99
+303,5543,Easy Spirit,White,Easy Spirit Sand Castle   Open-toe Leather  Sport Sandal,TRUE,23.99
+304,5585,Nine West,Black,Nine West Shape Up Women  Open Toe Suede Black Sandals,TRUE,43.99
+305,5586,Nine West,Black,Nine West Shape Up Women  Open Toe Suede Black Sandals,FALSE,90.0
+306,5720,VANS,White,Vans Authentic Slim   Round Toe Leather  Sneakers,FALSE,45.0
+307,5721,VANS,White,Vans Authentic Slim   Round Toe Leather  Sneakers,TRUE,35.99
+308,5780,Nike,Blue,New Nike Tiempo Genio Fg Womens Leather Soccer Cleats - Blue / Volt - Size 7.5,FALSE,28.8
+309,5826,VANS,Black,Vans Unisex Authentic Sneakers,TRUE,34.99
+310,5827,VANS,Black,Vans Unisex Authentic Sneakers,FALSE,65.0
+312,5915,Bongo,Black,Bongo Women's Skyler Black Studded-strap Sandal,FALSE,39.99
+313,5918,Brinley Co.,Brown,Brinley Co. Womens Wide Calf Slouchy Buckle Detail Boots,FALSE,49.99
+314,6088,Nine West,Black,Nwb Nine West Optimistic (women's) Size 10 M Wedge Heel Booties,FALSE,64.99
+315,6113,TOMS,Brown,Womens Toms Lunata Fringe Ankle Booties - Cognac Suede,FALSE,89.0
+316,6132,Vince Camuto,Brown,Vince Camuto Mertella2 Women  Open Toe Canvas  Sandals,TRUE,19.99
+317,6133,Vince Camuto,Brown,Vince Camuto Mertella2 Women  Open Toe Canvas  Sandals,FALSE,79.0
+318,6159,Nine West,Black,Nine West  Selena Women  Pointed Toe Leather Black Heels,TRUE,42.99
+319,6160,Nine West,Black,Nine West  Selena Women  Pointed Toe Leather Black Heels,FALSE,79.0
+320,6183,Easy Spirit,Black,Easy Spirit Sapi  2a Round Toe Canvas  Sneakers,TRUE,45.98
+321,6184,Easy Spirit,Black,Easy Spirit Sapi  2a Round Toe Canvas  Sneakers,TRUE,20.99
+322,6185,Easy Spirit,Black,Easy Spirit Sapi  2a Round Toe Canvas  Sneakers,FALSE,75.0
+324,6251,Nine West,Brown,Nine West Kassy   Round Toe Leather  Ankle Boot,TRUE,72.99
+325,6292,Easy Spirit,Black,Easy Spirit Panga   Open-toe Leather  Flats,TRUE,45.98
+326,6293,Easy Spirit,Black,Easy Spirit Panga   Open-toe Leather  Flats,FALSE,69.0
+327,6294,Easy Spirit,Black,Easy Spirit Panga   Open-toe Leather  Flats,TRUE,6.99
+328,6295,Easy Spirit,Black,Easy Spirit Panga   Open-toe Leather  Flats,TRUE,33.99
+329,6296,Easy Spirit,Black,Easy Spirit Panga   Open-toe Leather  Flats,TRUE,8.99
+330,6364,VANS,Black,Vans Authentic   Round Toe Canvas  Skate Shoe,TRUE,59.98
+331,6365,VANS,Black,Vans Authentic   Round Toe Canvas  Skate Shoe,TRUE,47.99
+332,6366,VANS,Black,Vans Authentic   Round Toe Canvas  Skate Shoe,FALSE,60.0
+334,6407,Bongo,Black,Bongo Women's Prana Black Cushioned Slingback Sandal,FALSE,16.99
+335,6408,Bongo,Black,Bongo Women's Prana Black Cushioned Slingback Sandal,TRUE,12.99
+336,6467,Alfani,Red,Alfani Morgin   Open-toe Suede  Mules,FALSE,75.0
+337,6468,Alfani,Red,Alfani Morgin   Open-toe Suede  Mules,TRUE,18.99
+338,6506,Unique Bargains,Beige,Unique Bargains Women's Rounded Toe Mid Heel Length Ankle Strap Pumps Beige (size 7.5),TRUE,29.4
+339,6507,Unique Bargains,Beige,Unique Bargains Women's Rounded Toe Mid Heel Length Ankle Strap Pumps Beige (size 7.5),FALSE,58.99
+340,6508,VANS,Black,Vans Atwood  Women  Round Toe Canvas Black Skate Shoe,TRUE,34.99
+341,6509,VANS,Black,Vans Atwood  Women  Round Toe Canvas Black Skate Shoe,FALSE,55.0
+342,6520,Unique Bargains,Brown,Unique Bargains Women's Chunky High Heel Tassel Closure Lace Up Sandals Brown (size 7.5),FALSE,71.99
+343,6521,Unique Bargains,Brown,Unique Bargains Women's Chunky High Heel Tassel Closure Lace Up Sandals Brown (size 7.5),TRUE,35.91
+344,6570,Bongo,White,Bongo Women's Lilly White Casual Shoe,FALSE,24.99
+345,6571,Bongo,White,Bongo Women's Lilly White Casual Shoe,TRUE,11.89
+347,6588,Vince Camuto,Black,Vince Camuto Kate   Round Toe Suede  Sneakers,TRUE,21.98
+348,6589,Vince Camuto,Black,Vince Camuto Kate   Round Toe Suede  Sneakers,TRUE,9.99
+349,6686,Style & Co.,Blue,Style & Co. 5270 New Womens Blue Velveteen Printed Jacket Athletic Plus 3x Bhfo,FALSE,6.5
+350,6687,Style & Co.,Blue,Style & Co. 5270 New Womens Blue Velveteen Printed Jacket Athletic Plus 3x Bhfo,FALSE,4.99
+351,6688,Style & Co.,Blue,Style & Co. 5270 New Womens Blue Velveteen Printed Jacket Athletic Plus 3x Bhfo,FALSE,5.5
+352,6755,Nine West,Black,Nine West Herbert   Open Toe Leather  Wedge Heel,TRUE,53.99
+354,6780,Ralph Lauren,Black,Ralph Lauren Size 14 Womens New Black Straight Leg Jeans Textured $125 #o5,FALSE,23.44
+355,6807,New Balance,Blue,New Balance Womens 725 Wide,FALSE,44.99
+356,6961,Easy Spirit,Black,Easy Spirit Motion Women Us 9 D Black Oxford Pre Owned 1665,FALSE,15.99
+357,7018,Style & Co.,Beige,Style & Co Mighty Wide Calf Women  Round Toe Synthetic Tan Mid Calf Boot,FALSE,29.99
+358,7136,Unique Bargains,Black,Ladies Cutout Front Strappy Pointed High Heels Pumps Black Us 7,TRUE,30.75
+359,7137,Unique Bargains,Black,Ladies Cutout Front Strappy Pointed High Heels Pumps Black Us 7,FALSE,61.99
+360,7139,Unique Bargains,Beige,Unique Bargains Women's Peep Toe Slip On Stacked Heel Slingback Mules Beige (size 8.5),FALSE,34.79
+361,7154,Marc Fisher,Brown,Marc Fisher Camber Women  Open Toe Suede  Wedge Sandal,FALSE,69.0
+362,7155,Marc Fisher,Brown,Marc Fisher Camber Women  Open Toe Suede  Wedge Sandal,TRUE,17.99
+363,7208,Marc Fisher,Beige,Marc Fisher Turnner 4 Women  Pointed Toe Synthetic  Heels,TRUE,14.99
+364,7209,Marc Fisher,Beige,Marc Fisher Turnner 4 Women  Pointed Toe Synthetic  Heels,FALSE,59.0
+365,7222,Alfani,Beige,Alfani Pacific Women  Peep-toe Suede  Heels,TRUE,26.98
+366,7223,Alfani,Beige,Alfani Pacific Women  Peep-toe Suede  Heels,FALSE,75.0
+367,7225,MUK LUKS,Black,Muk Luks Women's Alana Boot,TRUE,62.95
+368,7226,MUK LUKS,Black,Muk Luks Women's Alana Boot,TRUE,68.75
+369,7227,MUK LUKS,Black,Muk Luks Women's Alana Boot,FALSE,49.48
+370,7228,MUK LUKS,Black,Muk Luks Women's Alana Boot,TRUE,62.18
+371,7229,MUK LUKS,Black,Muk Luks Women's Alana Boot,TRUE,49.48
+372,7230,MUK LUKS,Black,Muk Luks Women's Alana Boot,FALSE,73.0
+373,7231,MUK LUKS,Black,Muk Luks Women's Alana Boot,TRUE,58.99
+374,7292,Nine West,Beige,Nine West Tabia Women  Pointed Toe Leather Tan Slingback Heel,FALSE,64.98
+375,7305,Nine West,Black,Nine West Nwnobu   Round Toe Leather  Clogs,FALSE,69.0
+376,7306,Nine West,Black,Nine West Nwnobu   Round Toe Leather  Clogs,TRUE,27.99
+377,7338,Vince Camuto,Brown,Vince Camuto Eliss   Round Toe Leather  Loafer,FALSE,27.99
+378,7356,Easy Spirit,Brown,Easy Spirit Testrun Women N/s Round Toe Suede  Winter Boot,FALSE,79.0
+379,7357,Easy Spirit,Brown,Easy Spirit Testrun Women N/s Round Toe Suede  Winter Boot,TRUE,34.99
+380,7395,Nine West,Brown,Womens Nine West Cantalope Wedge Sandals - Dark Natural,TRUE,28.0
+382,7409,Nine West,Black,Nine West Brave It   Open Toe Leather  Wedge Heel,TRUE,12.99
+383,7410,Nine West,Black,Nine West Brave It   Open Toe Leather  Wedge Heel,FALSE,89.0
+385,7423,Nine West,Black,Nine West Electric   Round Toe Leather  Ankle Boot,TRUE,82.99
+386,7440,Unique Bargains,Black,Unique Bargains Us Size 7 Black Canvas Dancing Ballet Shoes For Ladies,FALSE,19.99
+387,7441,Unique Bargains,Black,Unique Bargains Us Size 7 Black Canvas Dancing Ballet Shoes For Ladies,TRUE,10.31
+388,7442,Unique Bargains,Black,Unique Bargains Us Size 7 Black Canvas Dancing Ballet Shoes For Ladies,FALSE,20.99
+389,7443,Unique Bargains,Black,Unique Bargains Us Size 7 Black Canvas Dancing Ballet Shoes For Ladies,TRUE,9.59
+392,7469,Reebok,Black,Reebok Walk Around Walking Women's Shoes Size,TRUE,54.99
+393,7470,Reebok,Black,Reebok Walk Around Walking Women's Shoes Size,FALSE,63.95
+394,7483,Vince Camuto,Brown,Vince Camuto Emilian Women Us 10 Brown Knee High Boot Blemish 11284,FALSE,21.99
+395,7617,Bongo,Black,Bongo Women's Addy Black Sherpa-lined Ballet Flat,FALSE,29.99
+396,7618,Bongo,Black,Bongo Women's Addy Black Sherpa-lined Ballet Flat,TRUE,11.89
+397,7706,Nine West,White,Nine West Jacoby Women  Open Toe Leather White Wedge Heel,TRUE,42.99
+398,7707,Nine West,White,Nine West Jacoby Women  Open Toe Leather White Wedge Heel,FALSE,89.0
+399,7777,Brinley Co.,Black,Brinley Co. Women's Mid-calf Riding Boots,FALSE,44.99
+400,7778,Brinley Co.,Black,Brinley Co. Women's Mid-calf Riding Boots,TRUE,36.96
+401,7779,Brinley Co.,Black,Brinley Co. Women's Mid-calf Riding Boots,FALSE,59.98
+402,7780,Brinley Co.,Black,Brinley Co. Women's Mid-calf Riding Boots,TRUE,30.0
+403,7781,Brinley Co.,Black,Brinley Co. Women's Mid-calf Riding Boots,TRUE,27.0
+404,7782,Brinley Co.,Black,Brinley Co. Women's Mid-calf Riding Boots,FALSE,27.0
+405,7836,Easy Spirit,White,Easy Spirit Tourguide Women N/s Round Toe Leather White Mules,FALSE,50.0
+406,7837,Easy Spirit,White,Easy Spirit Tourguide Women N/s Round Toe Leather White Mules,TRUE,21.99
+407,7966,Brinley Co.,Black,Brinley Co. Women Buckle Accent Wide Calf Boots,TRUE,30.74
+408,7967,Brinley Co.,Black,Brinley Co. Women Buckle Accent Wide Calf Boots,FALSE,40.99
+409,7968,Brinley Co.,Black,Brinley Co. Women Buckle Accent Wide Calf Boots,FALSE,32.99
+410,7969,Brinley Co.,Black,Brinley Co. Women Buckle Accent Wide Calf Boots,TRUE,40.99
+412,8027,Le Suit,Black,Le Suit Plus Long Sleeves 2pc Pant Suit,TRUE,76.99
+413,8047,Alfani,Beige,Alfani Kendol   Open Toe Synthetic  Wedge Heel,FALSE,69.0
+414,8048,Alfani,Beige,Alfani Kendol   Open Toe Synthetic  Wedge Heel,TRUE,33.98
+415,8049,Alfani,Beige,Alfani Kendol   Open Toe Synthetic  Wedge Heel,TRUE,9.99
+416,8050,Alfani,Beige,Alfani Kendol   Open Toe Synthetic  Wedge Heel,TRUE,22.99
+417,8057,Style & Co.,Blue,Style & Co Bessy Women  Open Toe Synthetic  Wedge Heel,FALSE,55.0
+418,8058,Style & Co.,Blue,Style & Co Bessy Women  Open Toe Synthetic  Wedge Heel,TRUE,33.98
+419,8059,Style & Co.,Blue,Style & Co Bessy Women  Open Toe Synthetic  Wedge Heel,TRUE,10.99
+422,8184,TOMS,Black,Toms Women's Classic Moroccan Crochet Casual Shoe,FALSE,45.26
+423,8185,TOMS,Black,Toms Women's Classic Moroccan Crochet Casual Shoe,FALSE,46.1
+424,8186,TOMS,Black,Toms Women's Classic Moroccan Crochet Casual Shoe,FALSE,47.99
+425,8187,TOMS,Black,Toms Women's Classic Moroccan Crochet Casual Shoe,FALSE,45.27
+426,8197,Easy Spirit,White,Easy Spirit Manic Women W Open Toe Leather  Thong Sandal,TRUE,31.98
+427,8198,Easy Spirit,White,Easy Spirit Manic Women W Open Toe Leather  Thong Sandal,TRUE,21.99
+428,8199,Easy Spirit,White,Easy Spirit Manic Women W Open Toe Leather  Thong Sandal,FALSE,59.0
+429,8200,Easy Spirit,White,Easy Spirit Manic Women W Open Toe Leather  Thong Sandal,TRUE,22.99
+430,8277,Easy Spirit,Red,Easy Spirit Gannet   Round Toe Canvas  Espadrille,FALSE,16.97
+431,8278,Easy Spirit,Red,Easy Spirit Gannet   Round Toe Canvas  Espadrille,TRUE,33.98
+432,8279,Easy Spirit,Red,Easy Spirit Gannet   Round Toe Canvas  Espadrille,TRUE,23.99
+433,8280,Easy Spirit,Red,Easy Spirit Gannet   Round Toe Canvas  Espadrille,FALSE,89.0
+434,8281,Easy Spirit,Red,Easy Spirit Gannet   Round Toe Canvas  Espadrille,TRUE,22.99
+435,8283,Easy Spirit,Brown,Easy Spirit Penzance Women  Round Toe Leather Brown Ankle Boot,TRUE,86.98
+437,8285,Easy Spirit,Brown,Easy Spirit Penzance Women  Round Toe Leather Brown Ankle Boot,TRUE,78.99
+438,8335,VANS,Blue,Vans Camden   Round Toe Canvas  Skate Shoe,FALSE,17.99
+439,8344,Alfani,Black,Alfani Lyrra   Peep-toe Synthetic  Heels,FALSE,60.0
+440,8345,Alfani,Black,Alfani Lyrra   Peep-toe Synthetic  Heels,TRUE,23.99
+442,8493,MUK LUKS,Brown,Alicia Tall Cuff Boot,TRUE,79.2
+443,8574,Marc Fisher,Beige,Marc Fisher Toby 3   Open Toe Synthetic  Platform Heel,TRUE,48.99
+444,8575,Marc Fisher,Beige,Marc Fisher Toby 3   Open Toe Synthetic  Platform Heel,FALSE,15.99
+445,8576,Marc Fisher,Beige,Marc Fisher Toby 3   Open Toe Synthetic  Platform Heel,FALSE,89.0
+446,8646,New Balance,White,New Balance Wx409 Women  Round Toe Leather  Running Shoe,FALSE,32.99
+448,8839,Style & Co.,Blue,Style & Co Radleyy Women  Open Toe Canvas Blue Wedge Heel,TRUE,24.99
+449,8840,Style & Co.,Blue,Style & Co Radleyy Women  Open Toe Canvas Blue Wedge Heel,FALSE,49.0
+450,8841,Style & Co.,Blue,Style & Co Radleyy Women  Open Toe Canvas Blue Wedge Heel,FALSE,20.98
+451,8842,Style & Co.,Blue,Style & Co Radleyy Women  Open Toe Canvas Blue Wedge Heel,TRUE,25.99
+452,8843,Style & Co.,Blue,Style & Co Radleyy Women  Open Toe Canvas Blue Wedge Heel,FALSE,35.39
+453,8954,Unique Bargains,Black,Unique Bargains Women's Textured Vamp Chunky Heel Ankle Strap Sandals Black (size 9),FALSE,49.99
+454,8955,Unique Bargains,Black,Unique Bargains Women's Textured Vamp Chunky Heel Ankle Strap Sandals Black (size 9),TRUE,24.91
+455,8958,Marc Fisher,Black,Marc Fisher Stanley   Open Toe Leather  Platform Sandal,TRUE,19.99
+456,8959,Marc Fisher,Black,Marc Fisher Stanley   Open Toe Leather  Platform Sandal,FALSE,89.0
+457,8960,Marc Fisher,Black,Marc Fisher Stanley   Open Toe Leather  Platform Sandal,TRUE,25.99
+458,8974,Easy Spirit,Brown,Easy Spirit Vicki  N/s Round Toe Leather  Heels,FALSE,29.99
+462,9215,Easy Spirit,Blue,Easy Spirit Delilah  Ww Round Toe Synthetic  Walking Shoe,TRUE,29.99
+463,9216,Easy Spirit,Blue,Easy Spirit Delilah  Ww Round Toe Synthetic  Walking Shoe,FALSE,69.0
+464,9217,Easy Spirit,Blue,Easy Spirit Delilah  Ww Round Toe Synthetic  Walking Shoe,TRUE,27.99
+465,9218,Easy Spirit,Blue,Easy Spirit Delilah  Ww Round Toe Synthetic  Walking Shoe,TRUE,10.99
+466,9219,Easy Spirit,Blue,Easy Spirit Delilah  Ww Round Toe Synthetic  Walking Shoe,TRUE,38.98
+467,9220,Easy Spirit,Blue,Easy Spirit Delilah  Ww Round Toe Synthetic  Walking Shoe,TRUE,34.99
+468,9221,Easy Spirit,Blue,Easy Spirit Delilah  Ww Round Toe Synthetic  Walking Shoe,TRUE,13.99
+469,9222,Easy Spirit,Blue,Easy Spirit Delilah  Ww Round Toe Synthetic  Walking Shoe,TRUE,36.99
+470,9270,Style & Co.,Black,Style & Co. 9506 New Womens Black Poplin Tummy Control Capri Pants Plus 16w Bhfo,FALSE,10.5
+471,9271,Style & Co.,Black,Style & Co. 9506 New Womens Black Poplin Tummy Control Capri Pants Plus 16w Bhfo,FALSE,4.99
+472,9315,Easy Spirit,Blue,Easy Spirit Joyz   Open Toe Patent Leather  Platform Sandal,TRUE,46.99
+473,9316,Easy Spirit,Blue,Easy Spirit Joyz   Open Toe Patent Leather  Platform Sandal,FALSE,79.0
+474,9352,Style & Co.,Black,Style & Co Ulani Women  Open Toe Synthetic Black Sandals,FALSE,49.0
+475,9353,Style & Co.,Black,Style & Co Ulani Women  Open Toe Synthetic Black Sandals,TRUE,16.99
+477,9361,Nine West,Black,Nine West Thalassa Women  Round Toe Leather Black Ankle Boot,TRUE,49.98
+478,9362,Nine West,Black,Nine West Thalassa Women  Round Toe Leather Black Ankle Boot,TRUE,37.99
+479,9482,New Balance,White,New Balance Ww496 Women Us 8.5 White Walking Shoe Pre Owned Blemish 1294,FALSE,2.99
+480,9499,ELLIE SHOES,Black,Womens Ellie 620-amada-l Animal Print 5 Inch Heel Pumps Size 9 Clearance Shoes,FALSE,41.99
+485,9724,Vince Camuto,Brown,Vince Camuto Kadia   Round Toe Leather  Knee High Boot,TRUE,59.99
+487,9874,Alfani,Black,Alfani Zurry Women  Pointed Toe Synthetic Black Flats,TRUE,23.99
+488,9875,Alfani,Black,Alfani Zurry Women  Pointed Toe Synthetic Black Flats,FALSE,59.0
+489,9876,Alfani,Black,Alfani Zurry Women  Pointed Toe Synthetic Black Flats,FALSE,23.99
+490,9907,Marc Fisher,Brown,Marc Fisher Alining 2 Women  Open Toe Synthetic  Slides Sandal,TRUE,27.99
+491,9908,Marc Fisher,Brown,Marc Fisher Alining 2 Women  Open Toe Synthetic  Slides Sandal,FALSE,59.0
+492,9940,New Balance,Black,"New Balance 9534 Womens Black Mesh Walking Shoes Athletic 11 Wide (c,d,w) Bhfo",FALSE,10.5
+493,9978,Nine West,Brown,Nine West Bocce Women  Open Toe Leather  Gladiator Sandal,FALSE,85.0
+494,9979,Nine West,Brown,Nine West Bocce Women  Open Toe Leather  Gladiator Sandal,TRUE,20.98
+495,9980,Nine West,Brown,Nine West Bocce Women  Open Toe Leather  Gladiator Sandal,TRUE,9.99
+499,10020,Nine West,Brown,Nine West Genevieve   Square Toe Suede  Ankle Boot,TRUE,35.99
+500,10115,Nine West,White,Nine West Wixsono Women  Open Toe Synthetic  Wedge Sandal,TRUE,13.99
+501,10116,Nine West,White,Nine West Wixsono Women  Open Toe Synthetic  Wedge Sandal,FALSE,89.0
+502,10117,Nine West,White,Nine West Wixsono Women  Open Toe Synthetic  Wedge Sandal,TRUE,17.99
+503,10126,Brinley Co.,Brown,Brinley Co. Womens Wide Calf Slouchy Buckle Detail Boots,FALSE,39.99
+504,10142,Style & Co.,Beige,Style & Co Celiaa   Open Toe Synthetic  Sandals,TRUE,23.99
+505,10143,Style & Co.,Beige,Style & Co Celiaa   Open Toe Synthetic  Sandals,TRUE,17.99
+506,10144,Style & Co.,Beige,Style & Co Celiaa   Open Toe Synthetic  Sandals,FALSE,65.0
+507,10145,Style & Co.,Beige,Style & Co Celiaa   Open Toe Synthetic  Sandals,TRUE,25.99
+510,10216,TOMS,Black,Toms Desert Wedge   Open Toe Canvas  Wedge Heel,TRUE,58.98
+511,10217,TOMS,Black,Toms Desert Wedge   Open Toe Canvas  Wedge Heel,TRUE,48.99
+512,10218,TOMS,Black,Toms Desert Wedge   Open Toe Canvas  Wedge Heel,FALSE,87.65
+513,10219,TOMS,Black,Toms Desert Wedge   Open Toe Canvas  Wedge Heel,TRUE,46.99
+514,10220,TOMS,Black,Toms Desert Wedge   Open Toe Canvas  Wedge Heel,FALSE,89.0
+515,10239,New Balance,Blue,New Balance W675   Round Toe Synthetic  Running Shoe,TRUE,51.99
+516,10240,New Balance,Blue,New Balance W675   Round Toe Synthetic  Running Shoe,TRUE,58.98
+517,10241,New Balance,Blue,New Balance W675   Round Toe Synthetic  Running Shoe,TRUE,48.99
+518,10242,New Balance,Blue,New Balance W675   Round Toe Synthetic  Running Shoe,FALSE,65.0
+519,10243,New Balance,Blue,New Balance W675   Round Toe Synthetic  Running Shoe,TRUE,25.99
+520,10258,Easy Spirit,Black,Easy Spirit Eliana Women  Round Toe Suede  Clogs,FALSE,69.0
+521,10259,Easy Spirit,Black,Easy Spirit Eliana Women  Round Toe Suede  Clogs,TRUE,59.99
+522,10357,Easy Spirit,Beige,Easy Spirit Berdina Women  Open Toe Leather Nude Wedge Sandal,FALSE,39.99
+523,10378,Vince Camuto,Brown,Vince Camuto Matta Women  Open Toe Leather  Wedge Sandal,FALSE,51.99
+524,10425,TOMS,Blue,Toms Women's Avalon Slipon Batik Textile Ankle-high Synthetic Flat Shoe,FALSE,54.83
+525,10426,TOMS,Blue,Toms Women's Avalon Slipon Batik Textile Ankle-high Synthetic Flat Shoe,FALSE,59.0
+526,10427,TOMS,Blue,Toms Women's Avalon Slipon Batik Textile Ankle-high Synthetic Flat Shoe,FALSE,56.0
+527,10428,TOMS,Blue,Toms Women's Avalon Slipon Batik Textile Ankle-high Synthetic Flat Shoe,TRUE,39.13
+528,10505,Nine West,Black,Nine West Dragonia   Peep-toe Suede  Heels,FALSE,85.0
+529,10506,Nine West,Black,Nine West Dragonia   Peep-toe Suede  Heels,TRUE,16.99
+530,10547,Nine West,Black,Nine West Zedge Women  Open Toe Leather  Slides Sandal,TRUE,12.99
+531,10548,Nine West,Black,Nine West Zedge Women  Open Toe Leather  Slides Sandal,FALSE,79.0
+532,10605,Marc Fisher,Black,Marc Fisher Frenchie Women Us 7.5 Black Ankle Boot Pre Owned 1661,FALSE,19.99
+533,10606,Marc Fisher,Black,Marc Fisher Frenchie Women Us 7.5 Black Ankle Boot Pre Owned 1661,FALSE,18.99
+534,10649,VANS,Blue,Vans Slip-on Sf   Round Toe Suede  Flats,TRUE,51.99
+535,10650,VANS,Blue,Vans Slip-on Sf   Round Toe Suede  Flats,TRUE,63.98
+536,10651,VANS,Blue,Vans Slip-on Sf   Round Toe Suede  Flats,FALSE,65.0
+537,10867,Nine West,White,Nine West Women's Size 12 White Leather Wedge Sandals,FALSE,24.99
+538,10994,VANS,Blue,Vans Authentic Men   Synthetic Blue Fashion Sneakers,TRUE,47.99
+539,10995,VANS,Blue,Vans Authentic Men   Synthetic Blue Fashion Sneakers,FALSE,60.0
+540,10996,VANS,Blue,Vans Authentic Men   Synthetic Blue Fashion Sneakers,FALSE,29.99
+541,11054,Unique Bargains,Black,Unique Bargains Pair Embroidered Bee Black Middle Tube Boot Flat Canvas Shoes Eu 20 For Toddler,FALSE,23.99
+542,11055,Unique Bargains,Black,Unique Bargains Pair Embroidered Bee Black Middle Tube Boot Flat Canvas Shoes Eu 20 For Toddler,TRUE,12.54
+543,11056,Unique Bargains,Black,Unique Bargains Pair Embroidered Bee Black Middle Tube Boot Flat Canvas Shoes Eu 20 For Toddler,TRUE,11.82
+544,11057,Unique Bargains,Black,Unique Bargains Pair Embroidered Bee Black Middle Tube Boot Flat Canvas Shoes Eu 20 For Toddler,FALSE,25.99
+545,11133,Vince Camuto,Brown,Vince Camuto Soran Women  Round Toe Leather  Ankle Boot,FALSE,92.99
+547,11176,Marc Fisher,Black,Marc Fisher Genny Women  Open Toe Leather  Wedge Sandal,FALSE,69.0
+548,11177,Marc Fisher,Black,Marc Fisher Genny Women  Open Toe Leather  Wedge Sandal,TRUE,11.99
+549,11178,Alfani,White,Alfani Pursue   Open Toe Synthetic  Wedge Sandal,TRUE,27.99
+550,11179,Alfani,White,Alfani Pursue   Open Toe Synthetic  Wedge Sandal,FALSE,79.0
+551,11193,Unique Bargains,White,Unique Bargains Women's Cutout Sides Kitten Heel Pointed Toe Pumps White (size 9),TRUE,27.49
+552,11194,Unique Bargains,White,Unique Bargains Women's Cutout Sides Kitten Heel Pointed Toe Pumps White (size 9),FALSE,54.99
+553,11236,ELLIE SHOES,White,Womens Avenge White Superhero Costume Boots,FALSE,33.93
+556,11341,Reebok,Black,Reebok Bb7700 Mid Classic Women's Shoes Size,FALSE,69.99
+557,11342,Reebok,Black,Reebok Bb7700 Mid Classic Women's Shoes Size,TRUE,64.9
+558,11398,Nine West,Black,Nine West Selene Women Us 9 Black Heels Pre Owned 1903,FALSE,4.99
+559,11432,Easy Spirit,Brown,Easy Spirit Adino   Round Toe Leather  Ankle Boot,TRUE,58.98
+561,11434,Easy Spirit,Brown,Easy Spirit Adino   Round Toe Leather  Ankle Boot,TRUE,37.99
+562,11435,Easy Spirit,Brown,Easy Spirit Adino   Round Toe Leather  Ankle Boot,FALSE,58.99
+563,11436,Easy Spirit,Brown,Easy Spirit Adino   Round Toe Leather  Ankle Boot,TRUE,58.99
+565,11526,Alfani,Brown,Alfani Mable Women  Round Toe Synthetic  Knee High Boot,TRUE,20.99
+566,11530,Easy Spirit,Black,Easy Spirit Women's Nadette Knee High Riding Boots,FALSE,56.99
+567,11558,Unique Bargains,Beige,Woman Elastic Ankle Strap Weaven Strap Panel Sandals (size 6),TRUE,20.38
+568,11559,Unique Bargains,Beige,Woman Elastic Ankle Strap Weaven Strap Panel Sandals (size 6),FALSE,40.99
+569,11574,MUK LUKS,Black,Muk Luks - Micro Chenille Scuff With Satin Trim Slippers,FALSE,19.87
+570,11575,MUK LUKS,Black,Muk Luks - Micro Chenille Scuff With Satin Trim Slippers,FALSE,22.95
+571,11576,MUK LUKS,Black,Muk Luks - Micro Chenille Scuff With Satin Trim Slippers,FALSE,19.94
+572,11674,VANS,White,Vans Solana Women  Round Toe Canvas  Sneakers,FALSE,27.99
+573,11675,Style & Co.,Brown,Style & Co Raphiela   Round Toe Synthetic  Loafer,TRUE,13.99
+574,11676,Style & Co.,Brown,Style & Co Raphiela   Round Toe Synthetic  Loafer,FALSE,59.0
+575,12117,Vince Camuto,Beige,Womens Vince Camuto Lorim Platform Peep Toe Pumps - Nude,TRUE,40.54
+577,12198,Unique Bargains,Black,Outdoor Lady Pvc Zipper Closure Water Resistant Rain Boots Shoes Cover Pair L,FALSE,28.99
+578,12199,Unique Bargains,Black,Outdoor Lady Pvc Zipper Closure Water Resistant Rain Boots Shoes Cover Pair L,TRUE,14.02
+579,12366,Ralph Lauren,Blue,Betty Canvas Flat,FALSE,69.0
+582,12428,Nike,Black,Nike Fs Lite Run 2   Round Toe Synthetic  Running Shoe,FALSE,75.0
+583,12429,Nike,Black,Nike Fs Lite Run 2   Round Toe Synthetic  Running Shoe,TRUE,42.99
+584,12440,Easy Spirit,Beige,Easy Spirit Medn Women's Boots,FALSE,47.04
+585,12474,Unique Bargains,White,Unique Bargains Women's Open Toe Stiletto High Heel Strappy Sandals White Size 10,FALSE,71.99
+586,12475,Unique Bargains,White,Unique Bargains Women's Open Toe Stiletto High Heel Strappy Sandals White Size 10,TRUE,35.73
+588,12693,New Balance,Black,New Balance Wl574 Women   Suede  Fashion Sneakers,TRUE,64.99
+589,12694,New Balance,Black,New Balance Wl574 Women   Suede  Fashion Sneakers,FALSE,80.0
+590,12696,Le Suit,Black,Le Suit 8100 New Womens Black Shadow Stripe Pintuck Pant Suit 8 Bhfo,FALSE,20.5
+591,12752,Alfani,Red,Alfani Vandela   Pointed Toe Suede  Bootie,TRUE,33.99
+592,12753,Alfani,Red,Alfani Vandela   Pointed Toe Suede  Bootie,FALSE,90.0
+594,12794,Nine West,Brown,Nine West 7 Lillian Women  Round Toe Suede  Ankle Boot,TRUE,65.99
+595,12840,Nike,Black,Nike 4300 New Womens Black Racerback Signature One-piece Swimsuit 8 34 Bhfo,FALSE,13.5
+596,12866,VANS,White,Vans Sk8-hi Reissue   Round Toe Canvas  Sneakers,FALSE,85.0
+597,12867,VANS,White,Vans Sk8-hi Reissue   Round Toe Canvas  Sneakers,TRUE,67.99
+598,12874,Unique Bargains,Red,Unique Bargains Woman Chunky Heel Ankle Strap Sandals Red (size 7),FALSE,64.99
+599,12875,Unique Bargains,Red,Unique Bargains Woman Chunky Heel Ankle Strap Sandals Red (size 7),TRUE,32.33
+600,12935,Marc Fisher,Black,Marc Fisher Genette Women  Open Toe Leather  Sandals,TRUE,33.99
+601,12936,Marc Fisher,Black,Marc Fisher Genette Women  Open Toe Leather  Sandals,FALSE,89.0
+602,13018,Nine West,Black,Nine West Size 7 M Knee High Boots Womens Shoes New,TRUE,59.5
+604,13020,Easy Spirit,Black,"Easy Spirit 6010 Womens Elk Black Suede Winter Boots Shoes 10 Medium (b,m) Bhfo",FALSE,27.8
+605,13091,Unique Bargains,Red,Ladies Leopard Prints Pointed Toe Padded Insole Casual Flats Shoes (size 9.5),TRUE,21.3
+606,13092,Unique Bargains,Red,Ladies Leopard Prints Pointed Toe Padded Insole Casual Flats Shoes (size 9.5),FALSE,42.99
+607,13101,Easy Spirit,Brown,Easy Spirit Jarada   Round Toe Synthetic  Knee High Boot,FALSE,35.99
+610,13132,Nine West,Black,Nine West Genevieve Women Us 11 Black Ankle Boot,TRUE,76.99
+611,13300,Nine West,Black,Nine West Shy Girl Women  Pointed Toe Synthetic  Flats,FALSE,69.0
+612,13301,Nine West,Black,Nine West Shy Girl Women  Pointed Toe Synthetic  Flats,TRUE,37.99
+613,13319,Nine West,Black,Nine West 7gilded Women  Open Toe Synthetic  Platform Heel,TRUE,48.99
+614,13320,Nine West,Black,Nine West 7gilded Women  Open Toe Synthetic  Platform Heel,FALSE,89.0
+615,13336,Easy Spirit,White,Easy Spirit Quietone Women  Round Toe Synthetic White Walking Shoe,TRUE,29.99
+616,13337,Easy Spirit,White,Easy Spirit Quietone Women  Round Toe Synthetic White Walking Shoe,TRUE,47.99
+617,13338,Easy Spirit,White,Easy Spirit Quietone Women  Round Toe Synthetic White Walking Shoe,TRUE,57.98
+618,13339,Easy Spirit,White,Easy Spirit Quietone Women  Round Toe Synthetic White Walking Shoe,FALSE,79.0
+620,13348,Nine West,Black,Nine West Just This  Women  Round Toe Leather  Ankle Boot,TRUE,67.99
+621,13475,Alfani,White,Alfani Ridlee   Peep-toe Leather  Bootie,TRUE,13.99
+622,13476,Alfani,White,Alfani Ridlee   Peep-toe Leather  Bootie,FALSE,89.0
+623,13590,VANS,Beige,Vans Palisades Vulc    Synthetic  Fashion Sneakers,FALSE,52.0
+624,13591,VANS,Beige,Vans Palisades Vulc    Synthetic  Fashion Sneakers,TRUE,33.99
+625,13637,Reebok,Blue,Reebok Crossfit Lite Lo Tr   Round Toe Synthetic  Cross Training,FALSE,75.0
+626,13638,Reebok,Blue,Reebok Crossfit Lite Lo Tr   Round Toe Synthetic  Cross Training,TRUE,19.99
+627,13639,Reebok,Blue,Reebok Crossfit Lite Lo Tr   Round Toe Synthetic  Cross Training,TRUE,31.99
+628,13640,Reebok,Blue,Reebok Crossfit Lite Lo Tr   Round Toe Synthetic  Cross Training,FALSE,90.0
+629,13641,Reebok,Blue,Reebok Crossfit Lite Lo Tr   Round Toe Synthetic  Cross Training,TRUE,26.99
+630,13642,Reebok,Blue,Reebok Crossfit Lite Lo Tr   Round Toe Synthetic  Cross Training,TRUE,29.99
+631,13643,Reebok,Blue,Reebok Crossfit Lite Lo Tr   Round Toe Synthetic  Cross Training,TRUE,24.99
+633,13651,Vince Camuto,Beige,Vince Camuto Waliss   Open Toe Suede  Wedge Heel,TRUE,33.99
+634,13684,Nine West,White,Nine West Confetty   Open Toe Leather  Wedge Heel,FALSE,59.0
+637,13765,Style & Co.,Blue,Style & Co Highlight Women  Open Toe Synthetic Blue Sandals,FALSE,55.0
+638,13766,Style & Co.,Blue,Style & Co Highlight Women  Open Toe Synthetic Blue Sandals,TRUE,15.99
+639,13767,Style & Co.,Blue,Style & Co Highlight Women  Open Toe Synthetic Blue Sandals,TRUE,9.99
+640,13814,Marc Fisher,Brown,Marc Fisher Casandra Women  Open Toe Leather  Wedge Sandal,FALSE,69.0
+641,13815,Marc Fisher,Brown,Marc Fisher Casandra Women  Open Toe Leather  Wedge Sandal,TRUE,15.99
+643,13822,Nine West,Black,Nine West Irina Women  Open Toe Suede  Wedge Heel,TRUE,42.99
+644,13823,Nine West,Black,Nine West Irina Women  Open Toe Suede  Wedge Heel,FALSE,79.0
+645,13824,Marc Fisher,Brown,Marc Fisher Reily Women  Open Toe Suede  Thong Sandal,FALSE,17.99
+646,13892,Easy Spirit,Beige,Easy Spirit Hadley   Open-toe Leather  Slingback Sandal,FALSE,70.0
+647,13893,Easy Spirit,Beige,Easy Spirit Hadley   Open-toe Leather  Slingback Sandal,TRUE,26.98
+648,13894,Easy Spirit,Beige,Easy Spirit Hadley   Open-toe Leather  Slingback Sandal,TRUE,15.99
+649,13895,Easy Spirit,Beige,Easy Spirit Hadley   Open-toe Leather  Slingback Sandal,TRUE,17.99
+651,13927,VANS,White,Vans Sk8-hi Reissue   Round Toe Canvas  Sneakers,FALSE,69.99
+652,13932,Easy Spirit,Beige,Easy Spirit Amore   Round Toe Suede  Walking Shoe,FALSE,69.0
+653,13933,Easy Spirit,Beige,Easy Spirit Amore   Round Toe Suede  Walking Shoe,TRUE,40.99
+654,14015,Nine West,Beige,Nine West Dhara   Peep-toe Leather  Heels,TRUE,27.99
+655,14016,Nine West,Beige,Nine West Dhara   Peep-toe Leather  Heels,FALSE,89.0
+656,14077,Vince Camuto,Brown,Vince Camuto Serafina Wedge Sandals - Neutral,TRUE,60.09
+658,14144,Unique Bargains,Black,Women Concealed Platform Extreme Stiletto Heels Pumps Black Us 7.5,TRUE,20.87
+659,14145,Unique Bargains,Black,Women Concealed Platform Extreme Stiletto Heels Pumps Black Us 7.5,FALSE,41.99
+660,14146,Brinley Co.,Brown,Brinley Co. Women's Tall Buckle Detail Boots,TRUE,26.98
+661,14147,Brinley Co.,Brown,Brinley Co. Women's Tall Buckle Detail Boots,FALSE,64.98
+662,14148,Brinley Co.,Brown,Brinley Co. Women's Tall Buckle Detail Boots,FALSE,46.99
+663,14149,Brinley Co.,Brown,Brinley Co. Women's Tall Buckle Detail Boots,FALSE,61.0
+664,14150,Brinley Co.,Brown,Brinley Co. Women's Tall Buckle Detail Boots,TRUE,42.98
+665,14152,Brinley Co.,Brown,Brinley Co. Women's Tall Buckle Detail Boots,TRUE,31.99
+666,14163,Nine West,Red,Nine West Jinio Women  Open Toe Canvas  Wedge Sandal,TRUE,12.99
+667,14164,Nine West,Red,Nine West Jinio Women  Open Toe Canvas  Wedge Sandal,FALSE,89.0
+668,14211,Unique Bargains,Black,Women Color Block Panel Pointed Toe Padded Insole Casual Flats (size 8),TRUE,19.32
+669,14212,Unique Bargains,Black,Women Color Block Panel Pointed Toe Padded Insole Casual Flats (size 8),FALSE,38.99
+670,14252,Reebok,Black,Reebok Zig Squared Cruz Women  Round Toe Synthetic Black Running Shoe,TRUE,53.99
+671,14253,Reebok,Black,Reebok Zig Squared Cruz Women  Round Toe Synthetic Black Running Shoe,FALSE,90.0
+672,14255,VANS,Blue,Vans Unisex Authentic Sneakers,TRUE,34.99
+673,14256,VANS,Blue,Vans Unisex Authentic Sneakers,FALSE,65.0
+674,14273,Alfani,Black,Alfani Jemah   Round Toe Canvas  Ballet Flats,FALSE,50.0
+675,14275,Alfani,Black,Alfani Jemah   Round Toe Canvas  Ballet Flats,TRUE,21.97
+676,14276,Alfani,Black,Alfani Jemah   Round Toe Canvas  Ballet Flats,TRUE,11.99
+678,14320,Nine West,Red,Nine West Jennelle Women  Pointed Toe Suede Red Heels,FALSE,85.0
+679,14321,Nine West,Red,Nine West Jennelle Women  Pointed Toe Suede Red Heels,TRUE,42.99
+680,14322,Style & Co.,Beige,Style & Co Jamila Zip Bootie   Round Toe Synthetic  Bootie,FALSE,75.0
+681,14323,Style & Co.,Beige,Style & Co Jamila Zip Bootie   Round Toe Synthetic  Bootie,TRUE,23.99
+682,14332,Nine West,Black,Nine West Liam Women  Round Toe Leather Black Flats,TRUE,39.99
+683,14333,Nine West,Black,Nine West Liam Women  Round Toe Leather Black Flats,FALSE,89.0
+684,14336,Unique Bargains,Red,Unique Bargains Women's Rounded Toe Platform Mid Heel Slip On Wedge Pumps Red (size 8.5),TRUE,31.3
+685,14337,Unique Bargains,Red,Unique Bargains Women's Rounded Toe Platform Mid Heel Slip On Wedge Pumps Red (size 8.5),FALSE,62.99
+686,14338,Style & Co.,Black,Style & Co Ricky Women  Round Toe Leather Black Ankle Boot,FALSE,79.0
+687,14339,Style & Co.,Black,Style & Co Ricky Women  Round Toe Leather Black Ankle Boot,TRUE,17.99
+688,14442,New Balance,White,New Balance Nbgw Women  Round Toe Leather White Golf Shoe,TRUE,44.99
+690,14444,New Balance,White,New Balance Nbgw Women  Round Toe Leather White Golf Shoe,TRUE,31.99
+691,14445,New Balance,White,New Balance Nbgw Women  Round Toe Leather White Golf Shoe,TRUE,56.98
+692,14469,Style & Co.,Black,Style & Co Lylla Women  Open Toe Synthetic Black Platform Heel,FALSE,69.0
+693,14470,Style & Co.,Black,Style & Co Lylla Women  Open Toe Synthetic Black Platform Heel,TRUE,28.98
+694,14471,Style & Co.,Black,Style & Co Lylla Women  Open Toe Synthetic Black Platform Heel,TRUE,35.98
+695,14472,Style & Co.,Black,Style & Co Lylla Women  Open Toe Synthetic Black Platform Heel,TRUE,25.99
+696,14526,Alfani,Black,Alfani Acke   Round Toe Leather  Ankle Boot,FALSE,44.99
+697,14529,MUK LUKS,Black,Women's Juno Slippers,TRUE,37.99
+698,14530,MUK LUKS,Black,Women's Juno Slippers,FALSE,45.0
+699,14552,Style & Co.,Beige,Style & Co Tjamila Women  Round Toe Synthetic  Ankle Boot,FALSE,24.99
+700,14570,Nine West,Beige,Nine West Big Easy Women  Open Toe Leather Nude Wedge Sandal,TRUE,49.99
+701,14571,Nine West,Beige,Nine West Big Easy Women  Open Toe Leather Nude Wedge Sandal,FALSE,89.0
+702,14605,Unique Bargains,Black,Women Rubber Outsole Round Toe Bowknot Decor Pumps Black Us 7.5,FALSE,82.99
+703,14606,Unique Bargains,Black,Women Rubber Outsole Round Toe Bowknot Decor Pumps Black Us 7.5,TRUE,20.55
+704,14607,Unique Bargains,Black,Women Rubber Outsole Round Toe Bowknot Decor Pumps Black Us 7.5,TRUE,41.25
+705,14608,Unique Bargains,Black,Women Rubber Outsole Round Toe Bowknot Decor Pumps Black Us 7.5,FALSE,41.99
+706,14652,Reebok,White,Reebok Triple Hall,FALSE,39.95
+707,14693,Alfani,Black,Alfani 9504 New Womens Black Faux Suede Asymmetric Motorcycle Jacket Coat S Bhfo,FALSE,8.5
+708,14694,Alfani,Black,Alfani 9504 New Womens Black Faux Suede Asymmetric Motorcycle Jacket Coat S Bhfo,FALSE,4.99
+709,14825,New Balance,Brown,New Balance Ww895 Women 2a Round Toe Synthetic  Walking Shoe,TRUE,39.99
+711,14827,New Balance,Brown,New Balance Ww895 Women 2a Round Toe Synthetic  Walking Shoe,TRUE,46.99
+712,14828,New Balance,Brown,New Balance Ww895 Women 2a Round Toe Synthetic  Walking Shoe,TRUE,37.99
+713,14829,New Balance,Brown,New Balance Ww895 Women 2a Round Toe Synthetic  Walking Shoe,TRUE,47.98
+714,14834,Brinley Co.,Black,Brinley Co. Womens High Heeled Zippered Chunky Heel Ankle Booties,FALSE,39.99
+715,14865,Bongo,Black,Bongo Junior's Studded Denim Jeggings - Black&,TRUE,6.49
+716,14866,Bongo,Black,Bongo Junior's Studded Denim Jeggings - Black&,TRUE,7.79
+717,14867,Bongo,Black,Bongo Junior's Studded Denim Jeggings - Black&,FALSE,48.0
+718,14868,Bongo,Black,Bongo Junior's Studded Denim Jeggings - Black&,TRUE,12.99
+719,14928,Brinley Co.,Brown,Brinley Co. Women Buckle Detail Wide Calf Boots,FALSE,44.99
+720,14929,Brinley Co.,Brown,Brinley Co. Women Buckle Detail Wide Calf Boots,TRUE,19.71
+721,14930,Brinley Co.,Brown,Brinley Co. Women Buckle Detail Wide Calf Boots,TRUE,28.61
+722,14931,Brinley Co.,Brown,Brinley Co. Women Buckle Detail Wide Calf Boots,TRUE,19.99
+723,14949,Nine West,Black,Nine West Accocella   Round Toe Leather  Flats,FALSE,69.0
+724,14950,Nine West,Black,Nine West Accocella   Round Toe Leather  Flats,TRUE,15.99
+725,15012,Marc Fisher,Beige,Marc Fisher Alining 2 Women  Open Toe Synthetic  Slides Sandal,TRUE,7.99
+726,15013,Marc Fisher,Beige,Marc Fisher Alining 2 Women  Open Toe Synthetic  Slides Sandal,FALSE,59.0
+727,15019,Vince Camuto,Beige,Womens Vince Camuto Cavi Peep-toe Slingback Heels - Nude,FALSE,79.0
+730,15071,Nike,White,Nike Performance Cotton Cushioned Crew Socks Sx4700-101 Size L *free Shipping*,FALSE,19.99
+731,15072,Nike,White,Nike Performance Cotton Cushioned Crew Socks Sx4700-101 Size L *free Shipping*,FALSE,21.99
+732,15073,Nike,White,Nike Performance Cotton Cushioned Crew Socks Sx4700-101 Size L *free Shipping*,FALSE,18.99
+733,15095,Style & Co.,Brown,Style & Co Mabbel Women  Round Toe Synthetic Brown Knee High Boot,FALSE,75.0
+734,15096,Style & Co.,Brown,Style & Co Mabbel Women  Round Toe Synthetic Brown Knee High Boot,TRUE,23.99
+735,15106,Unique Bargains,Red,Women Metal Butterfly Cap Toe Pu Insole Pumps Burgundy Us 6,TRUE,16.28
+736,15107,Unique Bargains,Red,Women Metal Butterfly Cap Toe Pu Insole Pumps Burgundy Us 6,FALSE,32.99
+737,15108,Unique Bargains,Red,Women Metal Butterfly Cap Toe Pu Insole Pumps Burgundy Us 6,TRUE,31.85
+738,15109,Unique Bargains,Red,Women Metal Butterfly Cap Toe Pu Insole Pumps Burgundy Us 6,FALSE,63.99
+739,15110,Unique Bargains,Red,Women Metal Butterfly Cap Toe Pu Insole Pumps Burgundy Us 6,TRUE,35.13
+740,15111,Unique Bargains,Red,Women Metal Butterfly Cap Toe Pu Insole Pumps Burgundy Us 6,FALSE,70.99
+743,15162,Nine West,Beige,Nine West Entranz Women  Open Toe Leather  Wedge Sandal,TRUE,42.99
+744,15163,Nine West,Beige,Nine West Entranz Women  Open Toe Leather  Wedge Sandal,FALSE,79.0
+746,15289,Vince Camuto,Beige,Vince Camuto Cristiana Women  Open-toe Suede Nude Slingback Sandal,TRUE,85.99
+747,15302,Marc Fisher,Black,Marc Fisher Tinsel Women  Open Toe Synthetic  Platform Sandal,TRUE,46.99
+748,15303,Marc Fisher,Black,Marc Fisher Tinsel Women  Open Toe Synthetic  Platform Sandal,FALSE,79.0
+749,15370,Nike,Black,Nike Blazer Low Vntg Women Us 6.5 Black Sneakers,TRUE,47.99
+750,15371,Nike,Black,Nike Blazer Low Vntg Women Us 6.5 Black Sneakers,FALSE,90.0
+751,15372,Nike,Black,Nike Blazer Low Vntg Women Us 6.5 Black Sneakers,TRUE,25.99
+754,15402,Alfani,Beige,Alfani Kyrah Women Us 7.5 Nude Wedge Sandal Pre Owned 1903,FALSE,11.99
+755,15420,Marc Fisher,Brown,Marc Fisher Heighten Women  Open Toe Synthetic  Platform Heel,FALSE,11.99
+756,15423,Unique Bargains,Red,Unique Bargains Us 4.5 Flannel Padded Red Dancing Ballet Ladies Shoes,TRUE,9.05
+757,15424,Unique Bargains,Red,Unique Bargains Us 4.5 Flannel Padded Red Dancing Ballet Ladies Shoes,FALSE,18.99
+758,15513,Marc Fisher,Black,Marc Fisher Amber Wide Calf Women  Round Toe Leather  Knee High Boot,TRUE,53.99
+759,15514,Marc Fisher,Black,Marc Fisher Amber Wide Calf Women  Round Toe Leather  Knee High Boot,TRUE,29.99
+761,15518,Marc Fisher,Brown,Marc Fisher Geri Women  Round Toe Leather  Ankle Boot,FALSE,45.99
+762,15572,TOMS,Black,Toms Women's Classic Casual Shoe,FALSE,44.88
+763,15593,Bongo,Blue,Bongo Women's Tiffani Blue Mary Jane Pump,FALSE,29.99
+764,15594,Bongo,Blue,Bongo Women's Tiffani Blue Mary Jane Pump,TRUE,24.99
+765,15621,New Balance,Brown,New Balance 554 Womens Shoes 8 1/2 B Dark Brown - W554bbv New In Box Nib,FALSE,29.99
+766,15625,Nine West,Black,Nine West Authority    Open Toe Leather  Sandals,FALSE,89.0
+767,15626,Nine West,Black,Nine West Authority    Open Toe Leather  Sandals,TRUE,25.99
+768,15655,TOMS,White,Toms Classics   Round Toe Canvas  Sneakers,TRUE,24.99
+769,15656,TOMS,White,Toms Classics   Round Toe Canvas  Sneakers,FALSE,54.0
+770,15657,TOMS,White,Toms Classics   Round Toe Canvas  Sneakers,TRUE,28.99
+771,15658,TOMS,White,Toms Classics   Round Toe Canvas  Sneakers,TRUE,35.98
+772,15677,Nine West,Black,Nine West Rako   Open Toe Canvas  Platform Heel,FALSE,44.99
+773,15680,Unique Bargains,Black,Unique Bargains Women's Peep Toe High Heel Crisscross Straps Platform Sandals Black (size 9.5),FALSE,73.99
+774,15681,Unique Bargains,Black,Unique Bargains Women's Peep Toe High Heel Crisscross Straps Platform Sandals Black (size 9.5),TRUE,36.64
+778,15723,ELLIE SHOES,Black,Elllie Barb Platform Shoes 608-barbel_bl Black,FALSE,64.8
+779,15724,ELLIE SHOES,Black,Elllie Barb Platform Shoes 608-barbel_bl Black,FALSE,74.32
+780,15725,ELLIE SHOES,Black,Elllie Barb Platform Shoes 608-barbel_bl Black,TRUE,61.93
+781,15726,ELLIE SHOES,Black,Elllie Barb Platform Shoes 608-barbel_bl Black,TRUE,54.0
+784,15845,Nine West,Black,Nine West Callen   Open Toe Suede  Sandals,FALSE,85.0
+785,15846,Nine West,Black,Nine West Callen   Open Toe Suede  Sandals,TRUE,33.99
+786,15914,MUK LUKS,Black,Muk Luks Women's Lilly Lace Up Boot,TRUE,46.01
+787,15915,MUK LUKS,Black,Muk Luks Women's Lilly Lace Up Boot,FALSE,71.0
+788,15916,MUK LUKS,Black,Muk Luks Women's Lilly Lace Up Boot,TRUE,35.56
+789,15924,Style & Co.,Beige,Style & Co Nikolet   Round Toe Patent Leather  Heels,FALSE,12.99
+791,15952,Vince Camuto,Black,Vince Camuto Sabana Women  Round Toe Suede Black Knee High Boot,TRUE,61.99
+792,16163,Unique Bargains,Beige,Women Pointed Toe Snake-effect Faux Leather Bow Flats (size 6.5),FALSE,39.99
+793,16164,Unique Bargains,Beige,Women Pointed Toe Snake-effect Faux Leather Bow Flats (size 6.5),TRUE,19.91
+795,16176,Vince Camuto,Brown,Vince Camuto Gravell Women  Round Toe Leather Brown Bootie,TRUE,82.99
+796,16177,Vince Camuto,Brown,Vince Camuto Gravell Women  Round Toe Leather Brown Bootie,TRUE,49.99
+797,16242,Nike,Red,Nike Wmns Pre Montreal Rcr Vntg Women Us 6 Burgundy Sneakers Seconds 12557,FALSE,33.99
+798,16248,Marc Fisher,Red,Marc Fisher Frenchie   Round Toe Suede  Ankle Boot,TRUE,70.99
+800,16272,Unique Bargains,Black,Unique Bargains Tasharina Women's Plastic Reelable Shoes Boots Shape Keeper Holder Support Stretcher 2 Pcs Black,FALSE,22.99
+801,16273,Unique Bargains,Black,Unique Bargains Tasharina Women's Plastic Reelable Shoes Boots Shape Keeper Holder Support Stretcher 2 Pcs Black,TRUE,11.42
+804,16368,TOMS,Beige,Toms Playa Sandal   Open Toe Canvas  Thong Sandal,TRUE,31.99
+805,16369,TOMS,Beige,Toms Playa Sandal   Open Toe Canvas  Thong Sandal,FALSE,59.0
+806,16370,TOMS,Beige,Toms Playa Sandal   Open Toe Canvas  Thong Sandal,TRUE,25.99
+809,16556,TOMS,Red,Toms Women's Classic Casual Shoe,TRUE,47.67
+810,16557,TOMS,Red,Toms Women's Classic Casual Shoe,FALSE,79.0
+811,16558,TOMS,Red,Toms Women's Classic Casual Shoe,FALSE,69.77
+812,16559,TOMS,Red,Toms Women's Classic Casual Shoe,FALSE,71.26
+813,16690,Alfani,White,Alfani Tison Women Us 7 White Slides Sandal Pre Owned 1904,FALSE,7.99
+814,16759,Marc Fisher,Black,Marc Fisher Elia 2 Women  Open Toe Canvas  Wedge Heel,FALSE,69.0
+815,16760,Marc Fisher,Black,Marc Fisher Elia 2 Women  Open Toe Canvas  Wedge Heel,TRUE,6.99
+816,16801,Nine West,Brown,Nine West Women's Size 12 Brown Riding Boots,FALSE,31.99
+817,16810,Unique Bargains,Red,Unique Bargains Women's Rounded Toe Mid Heel Length Ankle Strap Pumps Red (size 8.5),TRUE,29.46
+818,16811,Unique Bargains,Red,Unique Bargains Women's Rounded Toe Mid Heel Length Ankle Strap Pumps Red (size 8.5),FALSE,58.99
+819,16895,Reebok,White,Reebok Classic Leather Casual Sneaker Shoe - White - Womens,FALSE,49.0
+820,16897,TOMS,Red,Toms Avalon Sneaker   Round Toe Canvas  Loafer,FALSE,54.0
+821,16898,TOMS,Red,Toms Avalon Sneaker   Round Toe Canvas  Loafer,TRUE,27.99
+822,16899,TOMS,Red,Toms Avalon Sneaker   Round Toe Canvas  Loafer,TRUE,28.99
+823,16901,Nine West,White,Nine West Gerbera Women  Open-toe Leather Ivory Heels,FALSE,79.0
+824,16902,Nine West,White,Nine West Gerbera Women  Open-toe Leather Ivory Heels,TRUE,16.99
+826,17183,MUK LUKS,Blue,Muk Luks Women's Grace Slipper,FALSE,40.0
+827,17184,MUK LUKS,Blue,Muk Luks Women's Grace Slipper,TRUE,22.99
+828,17185,MUK LUKS,Blue,Muk Luks Women's Grace Slipper,TRUE,27.92
+829,17186,MUK LUKS,Blue,Muk Luks Women's Grace Slipper,FALSE,45.0
+830,17273,Unique Bargains,Beige,Unique Bargains Women's Rounded Toe Platform Mid Heel Slip On Wedge Pumps Beige (size 6.5),FALSE,30.12
+831,17339,Easy Spirit,Black,Womens Easy Spirit Kalijo Espadrille Gem Wedge Heels - Black/black,TRUE,39.0
+832,17340,Easy Spirit,Black,Womens Easy Spirit Kalijo Espadrille Gem Wedge Heels - Black/black,FALSE,39.0
+833,17341,Easy Spirit,Black,Womens Easy Spirit Kalijo Espadrille Gem Wedge Heels - Black/black,FALSE,79.0
+834,17423,Unique Bargains,Blue,Woman Faux Suede V-cut Vamp Pointed Slip On Ballet Flat (size 7.5),FALSE,46.99
+835,17424,Unique Bargains,Blue,Woman Faux Suede V-cut Vamp Pointed Slip On Ballet Flat (size 7.5),TRUE,23.49
+836,17459,MUK LUKS,Brown,Muk Luks Malena Women's Crotchet Knit Sweater Winter Boots Size 10,FALSE,34.99
+837,17460,MUK LUKS,Brown,Muk Luks Malena Women's Crotchet Knit Sweater Winter Boots Size 10,TRUE,34.99
+838,17461,MUK LUKS,Brown,Muk Luks Malena Women's Crotchet Knit Sweater Winter Boots Size 10,FALSE,29.99
+839,17462,MUK LUKS,Brown,Muk Luks Malena Women's Crotchet Knit Sweater Winter Boots Size 10,FALSE,65.0
+840,17495,MUK LUKS,Beige,Muk Luks Women's Nikki Boot,FALSE,48.3
+841,17504,Nine West,Black,Nine West Highland Women Us 8 Black Sandals Pre Owned 1904,FALSE,32.99
+842,17513,MUK LUKS,Brown,Muk Luks Women's Love Safari 3 Pair Knee High Socks,TRUE,21.0
+843,17514,MUK LUKS,Brown,Muk Luks Women's Love Safari 3 Pair Knee High Socks,FALSE,22.0
+844,17515,MUK LUKS,Brown,Muk Luks Women's Love Safari 3 Pair Knee High Socks,TRUE,19.64
+845,17552,Nike,Blue,Nike Flex Experience Rn 3   Round Toe Synthetic  Running Shoe,TRUE,51.99
+846,17553,Nike,Blue,Nike Flex Experience Rn 3   Round Toe Synthetic  Running Shoe,FALSE,65.0
+847,17622,Vince Camuto,Black,Vince Camuto Women's Jaso Mules,FALSE,56.49
+848,17670,Ralph Lauren,Black,Ralph Lauren Size 16 Womens New Black Casual Pants Drawstring Pull On $125 #d1,FALSE,11.48
+849,17707,Unique Bargains,Red,Women Rhinestones Embellished Elastic Strap Flat Sandals (size 7.5),FALSE,23.26
+850,17751,Unique Bargains,Brown,Unique Bargains Women's Peep Toe Slip On Stacked Heel Slingback Mules Brown (size 8),TRUE,34.79
+851,17752,Unique Bargains,Brown,Unique Bargains Women's Peep Toe Slip On Stacked Heel Slingback Mules Brown (size 8),FALSE,69.99
+852,17754,Unique Bargains,Black,Unique Bargains Women's Rounded Toe Mid Heel Length Ankle Strap Pumps Black (size 8.5),FALSE,59.99
+853,17755,Unique Bargains,Black,Unique Bargains Women's Rounded Toe Mid Heel Length Ankle Strap Pumps Black (size 8.5),FALSE,60.99
+854,17756,Unique Bargains,Black,Unique Bargains Women's Rounded Toe Mid Heel Length Ankle Strap Pumps Black (size 8.5),TRUE,30.48
+855,17757,Unique Bargains,Black,Unique Bargains Women's Rounded Toe Mid Heel Length Ankle Strap Pumps Black (size 8.5),TRUE,29.75
+856,17771,MUK LUKS,Brown,Muk Luks �� Women's Short Lug Boot- Brown - Large (9-10),FALSE,47.11
+857,17772,MUK LUKS,Brown,Muk Luks �� Women's Short Lug Boot- Brown - Large (9-10),TRUE,32.0
+858,17773,MUK LUKS,Brown,Muk Luks �� Women's Short Lug Boot- Brown - Large (9-10),FALSE,40.0
+859,17774,MUK LUKS,Brown,Muk Luks �� Women's Short Lug Boot- Brown - Large (9-10),FALSE,32.0
+860,17775,MUK LUKS,Brown,Muk Luks �� Women's Short Lug Boot- Brown - Large (9-10),TRUE,39.26
+861,17802,Alfani,Black,Alfani Alorra   Round Toe Synthetic  Loafer,TRUE,30.99
+862,17803,Alfani,Black,Alfani Alorra   Round Toe Synthetic  Loafer,FALSE,75.0
+863,17804,TOMS,Black,Toms Tierra Sandal Women Open-toe Canvas Black Slingback Sandal,TRUE,39.99
+864,17805,TOMS,Black,Toms Tierra Sandal Women Open-toe Canvas Black Slingback Sandal,TRUE,42.99
+865,17806,TOMS,Black,Toms Tierra Sandal Women Open-toe Canvas Black Slingback Sandal,TRUE,28.99
+866,17807,TOMS,Black,Toms Tierra Sandal Women Open-toe Canvas Black Slingback Sandal,FALSE,79.0
+868,17821,Nine West,Black,Nine West Hott Stuff Women  Open-toe Leather  Heels,TRUE,52.99
+869,17833,Nine West,Black,Nine West Women's Amability Sandal,FALSE,55.6
+870,17847,VANS,Red,Vans Sk8-hi Reissue   Round Toe Canvas  Sneakers,FALSE,85.0
+871,17848,VANS,Red,Vans Sk8-hi Reissue   Round Toe Canvas  Sneakers,TRUE,22.99
+872,17975,Marc Fisher,Brown,Marc Fisher Maribell   Open-toe Synthetic  Slingback Sandal,TRUE,12.99
+873,17976,Marc Fisher,Brown,Marc Fisher Maribell   Open-toe Synthetic  Slingback Sandal,FALSE,59.0
+874,17981,Unique Bargains,Black,Unique Bargains Women's Rounded Toe Mid Heel Length Ankle Strap Pumps Black (size 7.5),TRUE,31.49
+875,17982,Unique Bargains,Black,Unique Bargains Women's Rounded Toe Mid Heel Length Ankle Strap Pumps Black (size 7.5),FALSE,62.99
+876,18080,Nike,Blue,"New Nike Women Hypervenom Phelon Ii Fg Soccer Cleats Sz 6.5, 7.5, 8.5 Blue Volt",FALSE,23.99
+877,18081,Nike,Blue,"New Nike Women Hypervenom Phelon Ii Fg Soccer Cleats Sz 6.5, 7.5, 8.5 Blue Volt",FALSE,28.9
+878,18082,Nike,Blue,"New Nike Women Hypervenom Phelon Ii Fg Soccer Cleats Sz 6.5, 7.5, 8.5 Blue Volt",FALSE,74.995
+879,18083,Nike,Blue,"New Nike Women Hypervenom Phelon Ii Fg Soccer Cleats Sz 6.5, 7.5, 8.5 Blue Volt",FALSE,74.245
+881,18114,Nine West,Black,Nine West Luciana Women  Round Toe Leather  Knee High Boot,TRUE,76.98
+884,18221,Bongo,Black,Bongo Junior's Wide Leg Pants,FALSE,48.0
+885,18222,Bongo,Black,Bongo Junior's Wide Leg Pants,TRUE,9.99
+886,18223,Bongo,Black,Bongo Junior's Wide Leg Pants,TRUE,5.99
+887,18224,Marc Fisher,Beige,Marc Fisher Rosa Women  Round Toe Synthetic Nude Flats,FALSE,69.0
+888,18225,Marc Fisher,Beige,Marc Fisher Rosa Women  Round Toe Synthetic Nude Flats,TRUE,3.99
+889,18226,Marc Fisher,Beige,Marc Fisher Rosa Women  Round Toe Synthetic Nude Flats,TRUE,46.98
+890,18327,Easy Spirit,Beige,Easy Spirit Motion  2a Round Toe Leather  Oxford,TRUE,24.99
+891,18328,Easy Spirit,Beige,Easy Spirit Motion  2a Round Toe Leather  Oxford,FALSE,79.0
+892,18444,Easy Spirit,Black,Easy Spirit Antaria   Round Toe Synthetic  Ankle Boot,FALSE,89.0
+893,18445,Easy Spirit,Black,Easy Spirit Antaria   Round Toe Synthetic  Ankle Boot,TRUE,52.99
+894,18446,Easy Spirit,Black,Easy Spirit Antaria   Round Toe Synthetic  Ankle Boot,TRUE,61.98
+895,18466,Marc Fisher,Beige,Marc Fisher Camber Women  Open Toe Suede  Wedge Sandal,FALSE,69.0
+896,18467,Marc Fisher,Beige,Marc Fisher Camber Women  Open Toe Suede  Wedge Sandal,TRUE,22.99
+897,18469,Nine West,Black,Nine West Aurielie Women  Open Toe Canvas Black Sandals,TRUE,24.99
+898,18470,Nine West,Black,Nine West Aurielie Women  Open Toe Canvas Black Sandals,FALSE,79.0
+899,18746,MUK LUKS,Black,Muk Luks Women's Macy Boots,FALSE,85.0
+900,18747,MUK LUKS,Black,Muk Luks Women's Macy Boots,FALSE,83.45
+901,18786,MUK LUKS,Brown,Women's Autumn Sunset Roll-cuff Brown Suede Boots,FALSE,94.94
+902,18849,VANS,Brown,Vans Authentic +   Round Toe Canvas  Sneakers,FALSE,45.0
+903,18850,VANS,Brown,Vans Authentic +   Round Toe Canvas  Sneakers,TRUE,35.99
+904,18982,Bongo,Black,Bongo Women's Moto Black Knee-height Boot,TRUE,34.99
+905,18983,Bongo,Black,Bongo Women's Moto Black Knee-height Boot,FALSE,79.99
