@@ -1,4 +1,4 @@
-![plot](../survey_img.png)
+![graph](../graph.jpg)
 
 
 # Project: Visualizing Real World Data - Salaries of Data Professionals worldwide
@@ -29,10 +29,10 @@ Finally I have assumed a $105,000 mean salary for all US data professionals and 
 ## Technical info / Deliverables
 The dataset can be found at https://www.kaggle.com/phuchuynguyen/salary-and-moredata-scientist-analyst-engineer
 I have used Python to prepare the data and for statistical testing. I have used Tableau Public for visualizing and interpreting data.
-A github repo has been created specifically for this project, and can be found at --- 
+A github repo has been created specifically for this project, and can be found at https://github.com/HH2805/Data-Professionals---m2-final-project 
 The repo includes:
- - a jupyter notebook named 'Data Salary Dataviz'.
- - The slides of my Tableau workbook which can also be found at: https://public.tableau.com/profile/h.l.ne.hill#!/
+ - a jupyter notebook named 'Data_Pros.ipynb'.
+ - The slides of my Tableau workbook which can also be found at: https://public.tableau.com/app/profile/h.l.ne.hill/viz/Data_Professionals_Tableau/SalariesandjobSatisfactionamongDataprofessionalsworldwide
  - the Stack Overflow Developer Survey questionnaire as background information.
 
 
